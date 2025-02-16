@@ -1,7 +1,6 @@
 # Git Basics Notes
 
-### From the Linux Command Line
-
+# From the Linux Command Line
 ## 1. Initialize a New Repository
 - `git init` – Initializes a new Git repository in the current directory.
 
